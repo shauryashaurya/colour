@@ -168,7 +168,7 @@ trimesh==3.20.1
 twine==4.0.2
 typing_extensions==4.6.2
 uri-template==1.2.0
-urllib3==2.0.2
+urllib3==2.0.6
 virtualenv==20.23.0
 watchdog==3.0.0
 wcwidth==0.2.6
